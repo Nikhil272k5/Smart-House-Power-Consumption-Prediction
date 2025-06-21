@@ -52,20 +52,6 @@ This notebook implements a Recurrent Generative Adversarial Network (RGAN) model
 - TensorFlow
 - Matplotlib
 
-## Usage
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/balamanikantsai/Smart_home_power_consumption_prediction.git
-   cd smart_home_power_consumption_prediction
-   ```
-
-2. Install the required packages:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebooks: Open any of the Jupyter notebooks (.ipynb files) in Jupyter Notebook or Jupyter Lab and run the cells to train and evaluate the models.
 
 ## Results
 
